@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\face-recognition2\app\build\intermediates\exploded-aar\face-recognition2\openCVLibrary2411\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0132c6ba5291fc065c56dc50996a6aa61045c025">
+        <dex dex="C:\face-recognition2\app\build\intermediates\pre-dexed\release\face-recognition2-openCVLibrary2411-unspecified_7918c18d2bbfc40bb6030c1c2422a995d22fba3e.jar" />
+    </item>
+    <item
+        jar="C:\face-recognition2\app\libs\javacv.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1824ed7a180ee32aa57f5632a489c10aad8f1804">
+        <dex dex="C:\face-recognition2\app\build\intermediates\pre-dexed\release\javacv_e64110ab35a09c5614bd516d322b907e8cb00f37.jar" />
+    </item>
+    <item
+        jar="C:\face-recognition2\app\libs\javacpp.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="08f8b1e3fdcc93a1e9076d6279864d6a46982a85">
+        <dex dex="C:\face-recognition2\app\build\intermediates\pre-dexed\release\javacpp_0c65b387604988a914e6922fe5b4fda476a7bf57.jar" />
+    </item>
+
+</items>

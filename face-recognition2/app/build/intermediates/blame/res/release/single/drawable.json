@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\frec.png",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\drawable\\frec.png"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\ic_stat_camera.png",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\drawable\\ic_stat_camera.png"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\bcg.png",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\drawable\\bcg.png"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\icon.png",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\drawable\\icon.png"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\drawable\\save_btn.png",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\drawable\\save_btn.png"
+    }
+]

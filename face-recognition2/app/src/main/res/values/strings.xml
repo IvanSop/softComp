@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Face Recognition</string>
+    <string name="BLANK"></string>
+    <string name="STrain">Train</string>
+
+    <string name="SSearch">Search</string>
+    <string name="SDelete">Delete</string>
+    <string name="SStopTrain">End Training</string>
+    <string name="SStopSearch">Stop Search</string>
+    <string name="Straininig">Training...</string>
+    <string name="SCanntoPredic">More then one face is needed to predict</string>
+    <string name="SIdle">Idle</string>
+    <string name="PersonName">Face name:</string>
+    <string name="SSearching">Searching</string>
+    <string name="loading">Loading...</string>
+    <string name="title_activity_main">MainActivity</string>
+</resources>

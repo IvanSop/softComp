@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="unspecified"><source path="C:\face-recognition2\app\build\intermediates\exploded-aar\face-recognition2\openCVLibrary2411\unspecified\assets"/></dataSet><dataSet config="main"><source path="C:\face-recognition2\app\src\main\assets"/></dataSet><dataSet config="release"><source path="C:\face-recognition2\app\src\release\assets"/></dataSet></merger>

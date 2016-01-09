@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_image.xml",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\layout\\activity_image.xml"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\layout\\catalog_view.xml",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\layout\\catalog_view.xml"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\layout\\face_detect_surface_view.xml",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\layout\\face_detect_surface_view.xml"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\layout\\name_dialog.xml",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\layout\\name_dialog.xml"
+    },
+    {
+        "merged": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_file_chooser.xml",
+        "source": "C:\\face-recognition2\\app\\src\\main\\res\\layout\\activity_file_chooser.xml"
+    }
+]

@@ -1,0 +1,206 @@
+[
+    {
+        "outputFile": "C:\\face-recognition2\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 304,
+                    "endColumn": 57,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 55,
+                    "endOffset": 413
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 418,
+                    "endColumn": 26,
+                    "endOffset": 440
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 445,
+                    "endColumn": 49,
+                    "endOffset": 490
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 495,
+                    "endColumn": 81,
+                    "endOffset": 572
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 577,
+                    "endColumn": 42,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 38,
+                    "endOffset": 654
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 659,
+                    "endColumn": 42,
+                    "endOffset": 697
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 702,
+                    "endColumn": 48,
+                    "endOffset": 746
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 751,
+                    "endColumn": 51,
+                    "endOffset": 798
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 803,
+                    "endColumn": 51,
+                    "endOffset": 850
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 272,
+                        "endColumn": 51,
+                        "endOffset": 319
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 855,
+                    "endColumn": 40,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 50,
+                    "endOffset": 942
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 947,
+                    "endColumn": 53,
+                    "endOffset": 996
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1001,
+                    "endColumn": 46,
+                    "endOffset": 1043
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1048,
+                    "endColumn": 60,
+                    "endOffset": 1104
+                },
+                "from": {
+                    "file": "C:\\face-recognition2\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            }
+        ]
+    }
+]

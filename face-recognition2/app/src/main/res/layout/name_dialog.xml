@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <ImageView
+        android:id="@+id/dialogHeader"
+        android:src="#73d71a1a"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:scaleType="center"
+        android:background="#92ca0a0a"
+        android:contentDescription="@string/app_name" />
+    <EditText
+        android:id="@+id/personName"
+        android:inputType="textEmailAddress"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:layout_marginLeft="4dp"
+        android:layout_marginRight="4dp"
+        android:layout_marginBottom="4dp"
+        android:hint="Person name" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/dialogButtonOK"
+            android:layout_width="150px"
+            android:layout_height="wrap_content"
+            android:text=" OK "
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_below="@+id/dialogHeader"
+            />
+
+        <Button
+            android:id="@+id/dialogButtonCancel"
+            android:layout_width="150px"
+            android:layout_height="wrap_content"
+            android:text=" Cancel "
+            android:layout_marginTop="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_below="@+id/dialogHeader"
+            />
+    </LinearLayout>
+
+</LinearLayout>
