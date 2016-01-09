@@ -1,6 +1,4 @@
-# softComp
-
-napomene:
+#napomene:
 
 - Testirano samo na Samsung Galaxy S3 Neo , Android 4.4.2
 - U Image mode, ako se stisne Recognize, a nije ucitana slika, aplikacija ce se crashovati
