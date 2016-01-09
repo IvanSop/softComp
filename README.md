@@ -7,3 +7,4 @@
 - Pri treniranju u Image modu, mora biti tacno 1 lice detektovano
 - Pri prepoznavanju, broj pored imena [confidence], sto je blizi 0 to bolje
 - Potreban je OpenCV Manager da bi aplikacija radila, ako ga nema, iskoci prompt za instalaciju koji vodi na play store
+- Ima i izbuildovan apk u /app/app-release.apk
